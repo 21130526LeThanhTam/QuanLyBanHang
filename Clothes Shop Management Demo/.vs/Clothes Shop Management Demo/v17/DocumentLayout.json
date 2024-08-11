@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\",
+  "WorkspaceRootPath": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\clothesshopmanagement-app-main\\clothes shop management demo\\demo\\view\\addcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\quanlybanhang\\clothes shop management demo\\demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\quanlybanhang\\clothes shop management demo\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\quanlybanhang\\clothes shop management demo\\demo\\view\\addcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\addcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\clothesshopmanagement-app-main\\clothes shop management demo\\demo\\usercontrols\\inforcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\demo\\usercontrols\\inforcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\usercontrols\\inforcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|c:\\c#\\clothesshopmanagement-app-main\\clothesshopmanagement-app-main\\clothes shop management demo\\demo\\model\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\demo\\model\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\model\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +35,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\App.config",
+              "RelativeDocumentMoniker": "Demo\\App.config",
+              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\App.config",
+              "RelativeToolTip": "Demo\\App.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-11T11:24:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\App.xaml",
+              "RelativeDocumentMoniker": "Demo\\App.xaml",
+              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\App.xaml",
+              "RelativeToolTip": "Demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T11:24:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddCustomerView.xaml",
-              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\View\\AddCustomerView.xaml",
+              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\View\\AddCustomerView.xaml",
               "RelativeDocumentMoniker": "Demo\\View\\AddCustomerView.xaml",
-              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\View\\AddCustomerView.xaml",
+              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\View\\AddCustomerView.xaml",
               "RelativeToolTip": "Demo\\View\\AddCustomerView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-11T06:48:42.988Z",
@@ -38,28 +71,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InforCard.xaml",
-              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\UserControls\\InforCard.xaml",
+              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\UserControls\\InforCard.xaml",
               "RelativeDocumentMoniker": "Demo\\UserControls\\InforCard.xaml",
-              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\UserControls\\InforCard.xaml",
+              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\UserControls\\InforCard.xaml",
               "RelativeToolTip": "Demo\\UserControls\\InforCard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-11T06:48:31.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T06:48:31.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Const.cs",
-              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
+              "DocumentMoniker": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
               "RelativeDocumentMoniker": "Demo\\Model\\Const.cs",
-              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\ClothesShopManagement-App-main\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
+              "ToolTip": "C:\\C#\\ClothesShopManagement-App-main\\QuanLyBanHang\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
               "RelativeToolTip": "Demo\\Model\\Const.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T06:48:12.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T06:48:12.543Z"
             }
           ]
         }
